@@ -12990,7 +12990,7 @@ Scale: 0.13</text>
 <instance part="X_13" gate="G$1" x="17.78" y="177.8" smashed="yes" rot="R270"/>
 <instance part="U1" gate="A" x="66.04" y="129.54" smashed="yes">
 <attribute name="NAME" x="53.8167" y="140.91" size="2.08546875" layer="95" ratio="10" rot="SR0"/>
-<attribute name="VALUE" x="52.74488125" y="112.1789" size="2.08681875" layer="96" ratio="10" rot="SR0"/>
+<attribute name="VALUE" x="52.74488125" y="110.9089" size="2.08681875" layer="96" ratio="10" rot="SR0"/>
 </instance>
 <instance part="R1" gate="G$1" x="38.1" y="111.76" smashed="yes" rot="R90">
 <attribute name="NAME" x="36.6014" y="107.95" size="1.778" layer="95" rot="R90"/>

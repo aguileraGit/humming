@@ -12823,6 +12823,7 @@ More Expensive:
 668-1668-ND
 668-1684-ND
 668-1691-ND</text>
+<text x="48.26" y="152.4" size="1.778" layer="97">Some nets are labelled 0 instead of GND.</text>
 </plain>
 <instances>
 <instance part="U2" gate="G$1" x="114.3" y="38.1" smashed="yes">

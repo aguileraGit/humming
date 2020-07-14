@@ -12904,8 +12904,7 @@ Scale: 0.13</text>
 <instance part="X_6" gate="G$1" x="198.12" y="119.38" smashed="yes"/>
 <instance part="X_7" gate="G$1" x="218.44" y="119.38" smashed="yes"/>
 <instance part="R9" gate="1" x="22.86" y="30.48" smashed="yes">
-<attribute name="NAME" x="16.891" y="26.67" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="19.05" y="26.67" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="19.431" y="26.67" size="1.778" layer="95" rot="R90"/>
 <attribute name="DK-PN" x="22.86" y="30.48" size="3.81" layer="96" display="off"/>
 <attribute name="POPULATE" x="22.86" y="30.48" size="3.81" layer="96" display="off"/>
 </instance>

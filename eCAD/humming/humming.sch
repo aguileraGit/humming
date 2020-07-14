@@ -12819,11 +12819,13 @@ https://www.soberton.com/wsp-5008-59/</text>
 Unit: mm
 Scale: 0.13</text>
 <text x="256.54" y="68.58" size="1.778" layer="97">433-1175-ND
+433-1171-ND
 More Expensive:
 668-1668-ND
 668-1684-ND
 668-1691-ND</text>
-<text x="48.26" y="152.4" size="1.778" layer="97">Some nets are labelled 0 instead of GND.</text>
+<text x="48.26" y="152.4" size="1.778" layer="97">Some nets are labelled 0 instead of GND.
+Tie U1 GND to actual GND.</text>
 </plain>
 <instances>
 <instance part="U2" gate="G$1" x="114.3" y="38.1" smashed="yes">
@@ -13313,16 +13315,19 @@ More Expensive:
 <pinref part="R5" gate="G$1" pin="1"/>
 <pinref part="X_1" gate="G$1" pin="0"/>
 <wire x1="38.1" y1="91.44" x2="38.1" y2="88.9" width="0.1524" layer="91"/>
+<label x="40.64" y="88.9" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="R10" gate="G$1" pin="1"/>
 <pinref part="X_3" gate="G$1" pin="0"/>
 <wire x1="99.06" y1="99.06" x2="99.06" y2="96.52" width="0.1524" layer="91"/>
+<label x="101.6" y="96.52" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="X_4" gate="G$1" pin="0"/>
 <pinref part="U1" gate="A" pin="GND"/>
 <wire x1="45.72" y1="127" x2="48.26" y2="127" width="0.1524" layer="91"/>
+<label x="45.72" y="129.54" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$12" class="0">

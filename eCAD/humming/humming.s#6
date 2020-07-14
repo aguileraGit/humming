@@ -12670,7 +12670,7 @@ Mating wall wart : TOL-00298 (and others)</description>
 <part name="X_6" library="ngspice-simulation" library_urn="urn:adsk.eagle:library:527439" deviceset="GND" device=""/>
 <part name="X_7" library="ngspice-simulation" library_urn="urn:adsk.eagle:library:527439" deviceset="GND" device=""/>
 <part name="R9" library="pot" library_urn="urn:adsk.eagle:library:331" deviceset="TRIM_EU-" device="3223W" package3d_urn="urn:adsk.eagle:package:22735/1" value="3223W-1-105E">
-<attribute name="DK-PN" value="3223W-1-103-ND"/>
+<attribute name="DK-PN" value="3223W-1-105E"/>
 <attribute name="POPULATE" value="Y"/>
 </part>
 <part name="X_8" library="ngspice-simulation" library_urn="urn:adsk.eagle:library:527439" deviceset="GND" device=""/>
@@ -12788,6 +12788,7 @@ Mating wall wart : TOL-00298 (and others)</description>
 <part name="P+1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="C1" library="CAPAE1030X1050N" deviceset="EDT108M010S9PAA" device="">
 <attribute name="DK-PN" value="399-20518-1-ND"/>
+<attribute name="POPULATE" value="Y"/>
 </part>
 </parts>
 <sheets>
@@ -12814,7 +12815,6 @@ https://www.soberton.com/wsp-5008-59/</text>
 <text x="231.14" y="190.5" size="3.81" layer="97">ULP-importBMP
 Unit: mm
 Scale: 0.13</text>
-<text x="147.32" y="53.34" size="3.81" layer="97">EDT108M010S9PAA</text>
 </plain>
 <instances>
 <instance part="U2" gate="G$1" x="114.3" y="38.1" smashed="yes">
@@ -13028,6 +13028,7 @@ Scale: 0.13</text>
 <attribute name="NAME" x="154.305" y="44.196" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="159.131" y="44.196" size="1.778" layer="96" rot="R90"/>
 <attribute name="DK-PN" x="154.94" y="43.18" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="POPULATE" x="154.94" y="43.18" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 </instances>
 <busses>

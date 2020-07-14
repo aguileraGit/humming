@@ -12789,7 +12789,7 @@ Mating wall wart : TOL-00298 (and others)</description>
 <part name="X_3" library="ngspice-simulation" library_urn="urn:adsk.eagle:library:527439" deviceset="GND" device=""/>
 <part name="X_4" library="ngspice-simulation" library_urn="urn:adsk.eagle:library:527439" deviceset="GND" device=""/>
 <part name="P+1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
-<part name="C1" library="CAPAE1030X1050N" deviceset="EDT108M010S9PAA" device="">
+<part name="C1" library="CAPAE1030X1050N" deviceset="EDT108M010S9PAA" device="" value="1000uF">
 <attribute name="DK-PN" value="399-20518-1-ND"/>
 <attribute name="POPULATE" value="Y"/>
 </part>
@@ -13029,8 +13029,8 @@ Scale: 0.13</text>
 <attribute name="VALUE" x="109.22" y="127" size="1.778" layer="96"/>
 </instance>
 <instance part="C1" gate="G$1" x="154.94" y="43.18" smashed="yes" rot="R90">
-<attribute name="NAME" x="154.305" y="44.196" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="159.131" y="44.196" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="151.765" y="44.196" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="154.051" y="44.196" size="1.778" layer="96" rot="R90"/>
 <attribute name="DK-PN" x="154.94" y="43.18" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="POPULATE" x="154.94" y="43.18" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>

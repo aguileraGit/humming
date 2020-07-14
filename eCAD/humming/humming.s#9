@@ -13020,7 +13020,7 @@ Scale: 0.13</text>
 <instance part="X_3" gate="G$1" x="99.06" y="96.52" smashed="yes"/>
 <instance part="X_4" gate="G$1" x="45.72" y="127" smashed="yes" rot="R270"/>
 <instance part="P+1" gate="VCC" x="109.22" y="127" smashed="yes" rot="R270">
-<attribute name="VALUE" x="106.68" y="129.54" size="1.778" layer="96"/>
+<attribute name="VALUE" x="109.22" y="127" size="1.778" layer="96"/>
 </instance>
 <instance part="C1" gate="G$1" x="154.94" y="43.18" smashed="yes" rot="R90">
 <attribute name="NAME" x="154.305" y="44.196" size="1.778" layer="95" rot="R90"/>
